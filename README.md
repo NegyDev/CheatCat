@@ -1,6 +1,4 @@
----
-
-# 🐾 Cheat Cat - Linux Memory Scanner  
+ 🐾 Cheat Cat - Linux Memory Scanner  
 **Build Version 1.0**  
 
 ![Banner](https://github.com/user-attachments/assets/2926e993-4b32-404e-bd97-68aeead17863)  
