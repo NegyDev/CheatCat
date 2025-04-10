@@ -45,7 +45,7 @@ A **Cheat Engine-like** memory scanner for Linux, written in Java. Open-source, 
 ---
 
 ## 📸 Preview  
-| Process Scanner | Memory Viewer |
+| Process Picker | Memory Scanner |
 |-----------------|---------------|
 | ![Process List](https://github.com/user-attachments/assets/2926e993-4b32-404e-bd97-68aeead17867) | ![Memory Scan](https://github.com/user-attachments/assets/0aa06923-31ca-4d21-a17b-e4b3d0a5a831) |
 
