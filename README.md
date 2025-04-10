@@ -1,72 +1,88 @@
-🐾 Cheat Cat | Build Version 1.0
+# 🐾 Cheat Cat - Linux Memory Scanner  
+**Build Version 1.0**  
 
-Cheat Cat is an open-source memory scanner application developed for Linux users. Written in Java, it offers a Cheat Engine-like interface and functionalities.
+![Banner](https://github.com/user-attachments/assets/2926e993-4b32-404e-bd97-68aeead17863)  
 
-This project was created to fill the gap of having a Cheat Engine-like memory scanner tool on Linux. It allows users to search for specific values in the memory of a running process. Thanks to Java, it runs cross-platform and provides a modern graphical user interface.
-🚀 Features
+A **Cheat Engine-like** memory scanner for Linux, written in Java. Open-source, cross-platform, and user-friendly!  
 
-  List and select running processes
+---
 
-  Scan memory by data types (1, 2, 4, 8 bytes)
+## ✨ Features  
+✔ **Process Selection** – List and attach to running processes  
+✔ **Multi-Type Scanning** – Supports 1, 2, 4, and 8-byte data types  
+✔ **Advanced Scans** – Exact value, unknown, increased/decreased  
+✔ **Memory Editing** – Track addresses and modify values  
+✔ **Modern GUI** – Intuitive interface inspired by Cheat Engine  
 
-  Advanced scan modes: exact value, unknown value, increased/decreased value
+---
 
-  Address tracking and memory writing
+## 🖥️ Supported Platforms  
+- **Linux** (Ubuntu, Fedora, Arch, etc.)  
+- **Cross-Platform** (Any OS with Java 8+)  
 
-  User-friendly GUI inspired by Cheat Engine
+---
 
-💻 Supported Platforms
+## 🚀 Quick Start  
 
-  All modern Linux distributions (Ubuntu, Fedora, Arch, etc.)
+### 📥 Installation  
+1. Ensure Java is installed:  
+   ```bash
+   sudo apt install openjdk-17-jdk  # For Debian/Ubuntu
+   ```
+2. Clone & run:  
+   ```bash
+   git clone https://github.com/your-repo/cheat-cat.git
+   cd cheat-cat
+   java -jar CheatCat.jar
+   ```
 
-  Can run on any system with Java installed
+### 🎮 Usage  
+1. **Select a process** from the list  
+2. **Choose data type** (e.g., 4 Bytes)  
+3. **Scan** (Exact/Unknown/Changed values)  
+4. **Modify memory** at found addresses  
 
-🛠️ Installation and Usage
+---
 
-  Make sure Java is installed on your system:
-  
-You can open and run the project using any Java IDE (IntelliJ IDEA, Eclipse, NetBeans).
-Just import the src folder and run the project.
+## 📸 Preview  
+| Process Scanner | Memory Viewer |
+|-----------------|---------------|
+| ![Process List](https://github.com/user-attachments/assets/2926e993-4b32-404e-bd97-68aeead17867) | ![Memory Scan](https://github.com/user-attachments/assets/0aa06923-31ca-4d21-a17b-e4b3d0a5a831) |
 
-🖼️ Application Preview
+---
 
-<img src="https://github.com/user-attachments/assets/2926e993-4b32-404e-bd97-68aeead17867" width="400"/>
-<img src="https://github.com/user-attachments/assets/0aa06923-31ca-4d21-a17b-e4b3d0a5a831" width="400"/>
+## 📜 License  
+**Unlicensed** – Free for use, modification, and distribution.  
 
-🧪 How to Use
+---
 
-  When the app launches, it lists active processes — select the one you want to scan.
+## 🤝 Contributing  
+1. Fork the repo 🍴  
+2. Add features/fixes 🛠️  
+3. Submit a PR 📬  
 
-  Choose the data type (e.g., 4 Bytes) and scan mode (e.g., Exact Value).
+**Issues?** Open a [GitHub Issue](https://github.com/your-repo/cheat-cat/issues).  
 
-  Enter the value you're looking for and click the "New Scan" button.
+---
 
-  You can then manipulate the listed addresses (write new values, etc.).
+> 🐾 **Cheat Cat** – Prowling through memory since 2023.  
 
-📦 Requirements
+---
 
-  Java 8 or higher
+### 🔨 Built With  
+- Java  
+- [Java Native Access (JNA)](https://github.com/java-native-access/jna)  
 
-📜 License
+---
 
-This project is unlicensed. It is completely free and open source.
-Feel free to improve, modify, and share it.
-📌 Notes
+✨ **Tip**: Run with high privileges for wider process access!  
 
-This project was developed as a hobby and is no longer actively maintained (discontinued).
-However, the source code is public — feel free to contribute or create your own version!
-🤝 Want to Contribute?
+---  
 
-Contributions are welcome!
+**Markdown Tips for Better Rendering**:  
+- Use `##` for headers (GitHub styles them distinctly)  
+- Tables and code blocks improve readability  
+- Emojis add visual breaks (but don’t overuse)  
+- Keep lines under 100 chars for mobile-friendly viewing  
 
-  Fork the repository
-
-  Add new features or fix bugs
-
-  Submit a pull request
-
-📬 Contact
-
-If you have suggestions, bug reports, or questions, feel free to open an issue on GitHub.
-
-  🐾 Cheat Cat – Leaves a trace in your memory.
+(Replace image links with actual repo assets!)
