@@ -1,9 +1,13 @@
+---
+
 # 🐾 Cheat Cat - Linux Memory Scanner  
 **Build Version 1.0**  
 
 ![Banner](https://github.com/user-attachments/assets/2926e993-4b32-404e-bd97-68aeead17863)  
 
 A **Cheat Engine-like** memory scanner for Linux, written in Java. Open-source, cross-platform, and user-friendly!  
+
+> ⚠️ **Note:** This project is **no longer maintained** (discontinued). However, feel free to fork it and continue development as you wish!
 
 ---
 
@@ -27,7 +31,7 @@ A **Cheat Engine-like** memory scanner for Linux, written in Java. Open-source, 
 ### 📥 Installation  
 1. Ensure Java is installed:  
    ```bash
-   sudo apt install openjdk-17-jdk  # For Debian/Ubuntu
+   sudo apt install openjdk-8-jdk  # For Debian/Ubuntu
    ```
 2. Clone & run:  
    ```bash
@@ -77,12 +81,4 @@ A **Cheat Engine-like** memory scanner for Linux, written in Java. Open-source, 
 
 ✨ **Tip**: Run with high privileges for wider process access!  
 
----  
-
-**Markdown Tips for Better Rendering**:  
-- Use `##` for headers (GitHub styles them distinctly)  
-- Tables and code blocks improve readability  
-- Emojis add visual breaks (but don’t overuse)  
-- Keep lines under 100 chars for mobile-friendly viewing  
-
-(Replace image links with actual repo assets!)
+---
