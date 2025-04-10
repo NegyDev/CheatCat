@@ -30,10 +30,8 @@ Just import the src folder and run the project.
 
 🖼️ Application Preview
 
-<<img src="https://github.com/user-attachments/assets/2926e993-4b32-404e-bd97-68aeead17867" width="400"/>
+<img src="https://github.com/user-attachments/assets/2926e993-4b32-404e-bd97-68aeead17867" width="400"/>
 <img src="https://github.com/user-attachments/assets/0aa06923-31ca-4d21-a17b-e4b3d0a5a831" width="400"/>
-
-
 
 (You can add a screenshot here in GitHub by uploading it to the repo or using an image URL)
 🧪 How to Use
