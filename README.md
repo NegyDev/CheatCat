@@ -31,8 +31,8 @@ A **Cheat Engine-like** memory scanner for Linux, written in Java. Open-source, 
    ```
 2. Clone & run:  
    ```bash
-   git clone https://github.com/your-repo/cheat-cat.git
-   cd cheat-cat
+   git clone https://github.com/NegyDev/CheatCat.git
+   cd CheatCat/out/Artifacts/CheatCat_jar
    java -jar CheatCat.jar
    ```
 
