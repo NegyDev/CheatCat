@@ -65,7 +65,7 @@ A **Cheat Engine-like** memory scanner for Linux, written in Java. Open-source, 
 
 ---
 
-> 🐾 **Cheat Cat** – Prowling through memory since 2023.  
+> 🐾 **Cheat Cat** – Prowling through memory since 2025.  
 
 ---
 
